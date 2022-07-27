@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="University.css">
+        <title>GenZ University</title>
+    </head>
+    <body>
+        <header>
+         <H1>
+            GenZ University
+         </H1>
+         </header>
+        <section class="banner">
+            <img src="beautiful.jpg">
+            <div class = "welcome">
+                <h2>GenZ University<br><span>Where education meets a whole new beginning</span></h2>
+
+            </div>
+        </section>
+        <nav class="main-nav">
+            <ul>
+                <li><a href="about.html" class="join">About</a></li>
+                <li><a href="price.html" class="price">Join Us</a></li>
+                <li><a href="Customer.html" class="customer">Contact Us</a></li>
+            </ul>
+        </nav>
+        <section class="contact">
+            <h2>Contact Us</h2>
+            <p>
+                For further queries, please contact us via your email id
+            </p>
+        
+            Enter your email id here please:
+            <form>
+                <input type="email" name="email" placeholder="type your email address" required>
+            </form>
+        </section>
+        
+        <footer>
+            <p class="copyright">
+                Copyright 2022 GO EZ Technologies Pvt Ltd.
+            </p>
+        </footer>
+    </body>
+</html>
